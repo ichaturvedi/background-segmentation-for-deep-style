@@ -1,0 +1,2 @@
+================ Training Loss (Wed Sep  4 07:39:56 2019) ================
+(epoch: 8, iters: 2, time: 0.050, data: 0.280) G_GAN: 0.814 G_L1: 17.995 D_real: 0.670 D_fake: 0.683 DS_real: 0.598 DS_fake: 0.793 
