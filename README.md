@@ -1,6 +1,7 @@
 Styling of Background in Photos
 ===
-This code implements the model discussed in Background Segmentation for Deep Style. It can simultaneously style an image and also predict the segmentation mask. The model is able to segement the background 'stuff' such as 'sea' or 'grass' and style it with different textures and brush size in the COCO dataset. We also use the model for segmenting 'cars' on a road in autonomous driving. 
+This code implements the model discussed in Background Segmentation for Deep Style. It can simultaneously style an image and also predict the segmentation mask. The model is able to segement the background 'stuff' such as 'sea' or 'grass' and style it with different textures and brush size in the COCO dataset. 
+[//] We also use the model for segmenting 'cars' on a road in autonomous driving. 
 
 Requirements
 ---
