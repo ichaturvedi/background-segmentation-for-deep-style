@@ -1,6 +1,6 @@
 Background Segmentation for Deep Style
 ===
-This code implements the model discussed in Background Segmentation for Deep Style. The model is able to segement the background 'suff' such as 'sea' or 'grass' and style it with different textures and brush size. We also use the model for segmenting 'cars' on a road in autonomous driving. 
+This code implements the model discussed in Background Segmentation for Deep Style. The model is able to segement the background 'stuff' such as 'sea' or 'grass' and style it with different textures and brush size. We also use the model for segmenting 'cars' on a road in autonomous driving. 
 
 Requirements
 ---
