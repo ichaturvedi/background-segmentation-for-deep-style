@@ -31,6 +31,7 @@ python test.py --dataroot ./datasets/dataset_name --name model_instance_name --m
  - "--num_test" indicates the number of images to use from test set
  - Testing results found under ./results
 
+<!--
 Test Sample for Car Segmentation
 ---
 Sample 1 For Input and Generated Segmentation for Car video :
@@ -42,5 +43,5 @@ Sample 2 For Input and Generated Segmentation for Car video :
 
 ![target2](https://user-images.githubusercontent.com/65399216/90971924-e380b580-e557-11ea-883c-02c47951d89e.gif)
 ![generated2](https://user-images.githubusercontent.com/65399216/90971925-e67ba600-e557-11ea-83ce-002604576d45.gif)
-
+-->
 
