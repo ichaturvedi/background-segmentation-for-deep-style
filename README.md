@@ -45,3 +45,7 @@ Sample 2 For Input and Generated Segmentation for Car video :
 ![generated2](https://user-images.githubusercontent.com/65399216/90971925-e67ba600-e557-11ea-83ce-002604576d45.gif)
 -->
 
+Test Sample for Face Segmentation
+---
+![1_real_A](https://user-images.githubusercontent.com/65399216/111775762-e2044980-88fc-11eb-8212-450794f8a0f0.png)
+![1_fake_B](https://user-images.githubusercontent.com/65399216/111775771-e6306700-88fc-11eb-899a-ea5a44d92941.png)
