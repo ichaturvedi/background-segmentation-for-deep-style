@@ -14,6 +14,11 @@ The training data is in the form of triples : A (original image), B (styled back
 
 ![sample_input](https://user-images.githubusercontent.com/65399216/90971912-b46a4400-e557-11ea-9945-b5a6eb8eaa2e.jpg)
 
+Parameters
+---
+Determine error correction co-efficients
+matlab -r parameters/parameters.m
+
 Training
 ---
 Train the model:
