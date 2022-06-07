@@ -18,7 +18,7 @@ Parameters
 ---
 
 matlab -r parameters.m
-- The training data is created using RCNN object segmentation model
+- The segmentation label is created using RCNN object segmentation model
 - Requires semi-definite programming toolbox YALMIP
 - The optimal beta and alpha are used for training
 
