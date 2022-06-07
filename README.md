@@ -17,6 +17,7 @@ The training data is in the form of triples : A (original image), B (styled back
 Parameters
 ---
 Determine error correction co-efficients
+
 matlab -r parameters/parameters.m
 
 Training
