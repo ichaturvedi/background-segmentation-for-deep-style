@@ -18,7 +18,7 @@ Parameters
 ---
 Determine error correction co-efficients
 
-matlab -r parameters/parameters.m
+matlab -r parameters.m
 
 Training
 ---
