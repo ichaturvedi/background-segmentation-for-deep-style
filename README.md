@@ -42,7 +42,7 @@ python test.py --dataroot ./datasets/dataset_name --name model_instance_name --m
 Evaluation
 ---
 matalb -r eva_seg.m
-- The predicted images are in evaluation/predictions
+- The predicted images are in evaluation/predicted
 - The target masks are in evaluation/masks
 
 <!--
