@@ -18,7 +18,7 @@ Parameters
 ---
 
 matlab -r parameters.m
-- The segmentation label is created using RCNN object segmentation model
+- The segmentation label is created using RCNN object segmentation model (see parameters folder)
 - Requires semi-definite programming toolbox YALMIP
 - The optimal beta and alpha are used for training
 
@@ -38,6 +38,12 @@ python test.py --dataroot ./datasets/dataset_name --name model_instance_name --m
  - The testing data will be taken from ./datasets/dataset_name/test
  - "--num_test" indicates the number of images to use from test set
  - Testing results found under ./results
+
+Evaluation
+---
+matalb -r eva_seg.m
+- The predicted images are in evaluation/predictions
+- The target masks are in evaluation/masks
 
 <!--
 Test Sample for Car Segmentation
