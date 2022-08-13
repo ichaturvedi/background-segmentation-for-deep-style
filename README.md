@@ -1,4 +1,4 @@
-Styling of Background in Photos
+Styling of Background in Photos[![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?hashtags=gan,objectdetection,computervision&url=https://github.com/ichaturvedi/background-segmentation-for-deep-style)
 ===
 This code implements the model discussed in the paper _Background Segmentation for Deep Style_. It can simultaneously style an image and also predict the segmentation mask. The model is able to segement the background 'stuff' such as 'sea' or 'grass' and style it with different textures in the COCO dataset. 
 <!-- We also use the model for segmenting 'cars' on a road in autonomous driving. -->
