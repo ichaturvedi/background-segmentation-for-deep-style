@@ -62,3 +62,4 @@ Test Sample for Face Segmentation
 ![1_real_A](https://user-images.githubusercontent.com/65399216/111775762-e2044980-88fc-11eb-8212-450794f8a0f0.png)
 ![1_fake_B](https://user-images.githubusercontent.com/65399216/111775771-e6306700-88fc-11eb-899a-ea5a44d92941.png)
 
+Paper Link : https://doi.org/10.1016/j.image.2022.116841
